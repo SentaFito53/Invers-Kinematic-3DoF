@@ -4,7 +4,7 @@ Simulator interaktif untuk menghitung dan memvisualisasikan **Inverse Kinematics
 
 ---
 
-## 🏗️ Pratinjau Simulator
+## Pratinjau Simulator
 
 Berikut adalah tampilan antarmuka dari simulator ini:
 
